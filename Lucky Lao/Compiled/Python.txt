@@ -1,0 +1,15 @@
+Descartes' Rule of Signs asserts that a real polynomial with n variations of signs has n positive (real) roots.
+Corollary: Given a polynomial f(x), the number of positive roots of f(-x) is equal to the number of negative roots of f(x).
+There does not exist an order relation on the set of Complex Numbers (set R^2).
+Any Complex number, denoted by z, is in the form of `x + iy` where x and y are real numbers.
+x is called the real part of z, denoted by Re(z).
+y is called the imaginary part of z, denoted by Im(z).
+Modulus of a complex number z = x + iy is the distance of z from the origin i.e. sqrt(x^2 + y^2). It is denoted by |z|
+Conjugate of z1 is the complex number z2 whose imaginary part has an opposite sign.
+Product of z and its conjugate is the square of |z|.
+The Polar Coordinates of a complex number z is (r, t*) where r = |z| and t* is the angle created by the line segment joining (x, y) and origin along the counter-clockwise direction of positive x-axis.
+The Cartesian coordinates of z = x + iy is (x, y).
+The Polar representation of a complex number z = x + iy is z = r(cos(t*) + isin(t*)) where r = |z| and t* is the angle created by the line segment joining (x, y) and origin along the counter-clockwise direction of positive x-axis.
+Note: t* lies in [0, 2*pi)
+t* is called the argument of z denoted by `arg z`.
+The extended argument of z is the set {arg z + 2*k*pi | k is in integers}, denoted by `Arg z`.
