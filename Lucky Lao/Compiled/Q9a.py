@@ -15,4 +15,6 @@ def a():
     print("No. of lines:", no_lines)
     print("No. of characters:", no_chars)
 
+    f.close()
+
 a()

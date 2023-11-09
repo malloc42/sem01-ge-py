@@ -10,4 +10,6 @@ def b():
     print("Frequency of every character:")
     print(freq)
 
+    f.close()
+
 b()
